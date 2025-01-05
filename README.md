@@ -20,7 +20,7 @@ This is Sridhar. I'm from India and hold a CS Engineering degree with over 12 ye
 <a href="https://www.github.com/srijan90" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/srijan90?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/sridharqubitx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sridharqubitx?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.twitch.tv/dataqubitx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
