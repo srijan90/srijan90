@@ -4,7 +4,11 @@ Hi 👋 My name is Sridhar Balasubramaniam
 Data Architect
 ----------------
 
-This is Sridhar. I'm from India and hold a CS Engineering degree with over 12 years of experience in data-related projects. I'm happy to share that I can deliver projects end-to-end when it comes to data-related work. For example, I can write SQL queries ranging from simple to highly complex, optimized for performance. I'm adept at writing business logic, whether in SQL or Python. I'm skilled in data modeling and have designed multiple data warehouses for companies in the health and public sectors across India, the US, and Canada. Additionally, I excel in business intelligence, converting data into valuable insights for companies. Unfortunately, I haven't yet had the opportunity to work with modern data companies to directly convert data into user-friendly insights. However, I'm enthusiastic about collaborating on anything data-related. I'm committed to promoting free education and bridging the gap between quality engineers and real innovators. This goal of gap reduction is my mantra, and I strive to create a positive impact within the developer community.
+Sridhar comes from India with a solid background in Computer Science Engineering and over 12 years of hands-on experience in data projects. Throughout his career, he has taken on a variety of data-related tasks, mastering the art of writing SQL queries—from the straightforward to the highly complex, always optimized for performance.
+
+He has built a strong foundation in business logic, whether in SQL or Python, and has contributed to designing multiple data warehouses for companies in the health and public sectors in India, the US, and Canada. His work in business intelligence has helped convert data into valuable insights for these companies.
+
+He is passionate about promoting free education and reducing the gap between quality engineers and real innovators, striving to make a positive impact within the developer community.
 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [https://github.com/srijan90](http://https://github.com/srijan90)
