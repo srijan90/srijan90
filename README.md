@@ -9,10 +9,13 @@ This is Sridhar. I'm from India and hold a CS Engineering degree with over 12 ye
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [https://github.com/srijan90](http://https://github.com/srijan90)
 * ✉️  You can contact me at [dataqubitx@gmail.com](mailto:dataqubitx@gmail.com)
-* 🚀  I'm currently working on [Self](http://https://github.com/srijan90)
+* 🚀  I'm currently working on [Self](https://github.com/srijan90)
 * 🧠  I'm learning Streamlit, Flask and testing ollama models
 * 🤝  I'm open to collaborating on LLM models
-* ⚡  🎯 Goals: Create a FOSS regional community 🎲 Fun fact: Good dancer but not now. 🤔 I love exploring New Technologies. 💬 Ask me about any tech-related stuff. 😄 Pronouns: He/His
+* ⚡  🎯 Goals: Create a FOSS regional community
+* 🎲 Fun fact: Good dancer but not now.
+* 🤔 I love exploring New Technologies.
+* 💬 Ask me about any tech-related stuff.
 
 <a href="https://www.github.com/srijan90" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/srijan90?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/sridharqubitx" target="_blank" rel="noreferrer"><img
