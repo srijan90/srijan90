@@ -4,7 +4,7 @@ Hi 👋 My name is Sridhar Balasubramaniam (Call me - Sri)
 Data Architect
 ----------------
 
-Sridhar comes from India with a solid background in Computer Science Engineering and over 12 years of hands-on experience in data projects. Throughout his career, he has taken on a variety of data-related tasks, mastering the art of writing SQL queries—from the straightforward to the highly complex, always optimized for performance.
+Sri comes from India with a solid background in Computer Science Engineering and over 12 years of hands-on experience in data projects. Throughout his career, he has taken on a variety of data-related tasks, mastering the art of writing SQL queries—from the straightforward to the highly complex, always optimized for performance.
 
 He has built a strong foundation in business logic, whether in SQL or Python, and has contributed to designing multiple data warehouses for companies in the health and public sectors in India, the US, and Canada. His work in business intelligence has helped convert data into valuable insights for these companies.
 
