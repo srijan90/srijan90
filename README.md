@@ -10,7 +10,7 @@ He has built a strong foundation in business logic, whether in SQL or Python, an
 
 He is passionate about promoting free education and reducing the gap between quality engineers and real innovators, striving to make a positive impact within the developer community.
 
-* 🌍  I'm based in INDIA
+* 🌍  I'm from INDIA
 * 🖥️  See my portfolio at [https://github.com/srijan90](http://https://github.com/srijan90)
 * ✉️  You can contact me at [dataqubitx@gmail.com](mailto:dataqubitx@gmail.com)
 * 🚀  I'm currently working on [Self](https://github.com/srijan90)
