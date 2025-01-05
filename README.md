@@ -8,7 +8,7 @@ This is Sridhar. I'm from India and hold a CS Engineering degree with over 12 ye
 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [https://github.com/srijan90](http://https://github.com/srijan90)
-* ✉️  You can contact me at [dataqubitx@gmail.com](mailto:sree.tup@gmail.com)
+* ✉️  You can contact me at [dataqubitx@gmail.com](mailto:dataqubitx@gmail.com)
 * 🚀  I'm currently working on [Self](http://https://github.com/srijan90)
 * 🧠  I'm learning Streamlit, Flask and testing ollama models
 * 🤝  I'm open to collaborating on LLM models
